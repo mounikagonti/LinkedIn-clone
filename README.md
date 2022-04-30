@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# LinkedIn Clone
 
 #### **Live Project: https://linkedin-clone-29627.web.app/**
 
